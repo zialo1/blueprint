@@ -1,0 +1,554 @@
+{
+  "nodes": [
+    {
+      "id": "ifc_b8b70717",
+      "name": "Space",
+      "area": 2128.0,
+      "x": 1017.0,
+      "y": 152.0
+    },
+    {
+      "id": "ifc_d8a40a6a",
+      "name": "Space",
+      "area": 2544.0,
+      "x": 854.5,
+      "y": 185.0
+    },
+    {
+      "id": "ifc_3ec9c1b7",
+      "name": "Space",
+      "area": 1105.0,
+      "x": 928.5,
+      "y": 167.5
+    },
+    {
+      "id": "ifc_b161f4fd",
+      "name": "Space",
+      "area": 1408.0,
+      "x": 1085.0,
+      "y": 166.5
+    },
+    {
+      "id": "ifc_ebbf572e",
+      "name": "Space",
+      "area": 3588.0,
+      "x": 964.0,
+      "y": 188.5
+    },
+    {
+      "id": "ifc_4d34188a",
+      "name": "Space",
+      "area": 7920.0,
+      "x": 1083.0,
+      "y": 209.0
+    },
+    {
+      "id": "ifc_9c44fc9c",
+      "name": "Space",
+      "area": 1095.0,
+      "x": 815.5000000000001,
+      "y": 280.5
+    },
+    {
+      "id": "ifc_2fdcbd5d",
+      "name": "Space",
+      "area": 7665.0,
+      "x": 1075.5,
+      "y": 280.5
+    },
+    {
+      "id": "ifc_b50899b8",
+      "name": "Space",
+      "area": 8052.0,
+      "x": 952.0,
+      "y": 286.5
+    },
+    {
+      "id": "ifc_ce2e92d5",
+      "name": "Space",
+      "area": 2478.0,
+      "x": 849.0,
+      "y": 295.5
+    },
+    {
+      "id": "ifc_b1b283fa",
+      "name": "Space",
+      "area": 3402.0,
+      "x": 107.5,
+      "y": 511.0
+    },
+    {
+      "id": "ifc_e0032dff",
+      "name": "Space",
+      "area": 2964.0,
+      "x": 841.5,
+      "y": 377.0
+    },
+    {
+      "id": "ifc_10a76309",
+      "name": "Space",
+      "area": 1710.0,
+      "x": 915.0,
+      "y": 397.5
+    },
+    {
+      "id": "ifc_7a1df1d4",
+      "name": "Space",
+      "area": 3276.0,
+      "x": 838.5,
+      "y": 449.0
+    },
+    {
+      "id": "ifc_7e882394",
+      "name": "Space",
+      "area": 85026.0,
+      "x": 427.5,
+      "y": 547.0
+    },
+    {
+      "id": "ifc_0dcbb0a5",
+      "name": "Space",
+      "area": 5890.0,
+      "x": 317.5,
+      "y": 482.0
+    },
+    {
+      "id": "ifc_c1068f2d",
+      "name": "Space",
+      "area": 1260.0,
+      "x": 905.0000000000001,
+      "y": 461.50000000000006
+    },
+    {
+      "id": "ifc_ef107a43",
+      "name": "Space",
+      "area": 1802.0,
+      "x": 509.5,
+      "y": 497.0
+    },
+    {
+      "id": "ifc_e1a680e8",
+      "name": "Space",
+      "area": 5415.0,
+      "x": 317.5,
+      "y": 556.5
+    },
+    {
+      "id": "ifc_ba57bf84",
+      "name": "Space",
+      "area": 2418.0,
+      "x": 612.5,
+      "y": 745.0
+    },
+    {
+      "id": "ifc_fff508cb",
+      "name": "Space",
+      "area": 137637.0,
+      "x": 422.50000000000006,
+      "y": 847.5000000000001
+    },
+    {
+      "id": "ifc_b1ef5151",
+      "name": "Space",
+      "area": 1128.0,
+      "x": 190.0,
+      "y": 905.0
+    },
+    {
+      "id": "ifc_4980afd1",
+      "name": "Space",
+      "area": 16724.0,
+      "x": 175.0,
+      "y": 955.4999999999999
+    },
+    {
+      "id": "ifc_b3a05bfe",
+      "name": "Space",
+      "area": 29904.0,
+      "x": 201.00000000000003,
+      "y": 1126.0
+    },
+    {
+      "id": "ifc_ce2d97b5",
+      "name": "Space",
+      "area": 55358.0,
+      "x": 445.5,
+      "y": 1126.0
+    },
+    {
+      "id": "ifc_6059a4ae",
+      "name": "Space",
+      "area": 3094.0,
+      "x": 612.5,
+      "y": 1280.0
+    },
+    {
+      "id": "ifc_fb5a2aec",
+      "name": "Space",
+      "area": 171588.0,
+      "x": 620.0000000000001,
+      "y": 1597.0000000000002
+    }
+  ],
+  "edges": [
+    {
+      "source": "ifc_ba57bf84",
+      "target": "ifc_fff508cb",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_f2b23213",
+      "distance": 215.88480724682782,
+      "distance_squared": 46606.25,
+      "solid_angle": 0.0,
+      "opening_fraction": 1e-12,
+      "weight": 2.1456349738500738e-17
+    },
+    {
+      "source": "ifc_ce2d97b5",
+      "target": "ifc_6059a4ae",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_28b43ef8",
+      "distance": 227.16733920174352,
+      "distance_squared": 51605.0,
+      "solid_angle": 0.0,
+      "opening_fraction": 1e-12,
+      "weight": 1.9377967251235344e-17
+    },
+    {
+      "source": "ifc_fff508cb",
+      "target": "ifc_b1ef5151",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_866fbcf6",
+      "distance": 239.5046972399498,
+      "distance_squared": 57362.500000000015,
+      "solid_angle": 0.0,
+      "opening_fraction": 1e-12,
+      "weight": 1.7432991937241225e-17
+    },
+    {
+      "source": "ifc_fff508cb",
+      "target": "ifc_4980afd1",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_e7ec05eb",
+      "distance": 270.0374973961949,
+      "distance_squared": 72920.24999999997,
+      "solid_angle": 0.0,
+      "opening_fraction": 1e-12,
+      "weight": 1.3713611788220698e-17
+    },
+    {
+      "source": "ifc_2fdcbd5d",
+      "target": "ifc_4d34188a",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_002f036a",
+      "distance": 71.89228053136164,
+      "distance_squared": 5168.499999999999,
+      "solid_angle": 0.0,
+      "opening_fraction": 1e-12,
+      "weight": 1.9347973299796849e-16
+    },
+    {
+      "source": "ifc_ba57bf84",
+      "target": "ifc_fff508cb",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_c3a91c11",
+      "distance": 215.88480724682782,
+      "distance_squared": 46606.25,
+      "solid_angle": 0.0015334694300709831,
+      "opening_fraction": 0.00012202961993805425,
+      "weight": 2.618310203847215e-09
+    },
+    {
+      "source": "ifc_b161f4fd",
+      "target": "ifc_4d34188a",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_8a988443",
+      "distance": 42.547032799009614,
+      "distance_squared": 1810.2499999999998,
+      "solid_angle": 0.021404677842873497,
+      "opening_fraction": 0.0017033301419914423,
+      "weight": 9.409364131978691e-07
+    },
+    {
+      "source": "ifc_4d34188a",
+      "target": "ifc_b161f4fd",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_8727a72c",
+      "distance": 42.547032799009614,
+      "distance_squared": 1810.2499999999998,
+      "solid_angle": 0.04722924044158053,
+      "opening_fraction": 0.0037583835373765956,
+      "weight": 2.076168229458139e-06
+    },
+    {
+      "source": "ifc_4d34188a",
+      "target": "ifc_ebbf572e",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_b3c52a79",
+      "distance": 120.75284675733322,
+      "distance_squared": 14581.25,
+      "solid_angle": 0.0,
+      "opening_fraction": 1e-12,
+      "weight": 6.858122588941278e-17
+    },
+    {
+      "source": "ifc_4d34188a",
+      "target": "ifc_b161f4fd",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_73614f37",
+      "distance": 42.547032799009614,
+      "distance_squared": 1810.2499999999998,
+      "solid_angle": 0.0,
+      "opening_fraction": 1e-12,
+      "weight": 5.524098881369977e-16
+    },
+    {
+      "source": "ifc_4d34188a",
+      "target": "ifc_2fdcbd5d",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_15f268eb",
+      "distance": 71.89228053136164,
+      "distance_squared": 5168.499999999999,
+      "solid_angle": 0.04778680278369283,
+      "opening_fraction": 0.003802752938791129,
+      "weight": 7.357556232545477e-07
+    },
+    {
+      "source": "ifc_4d34188a",
+      "target": "ifc_2fdcbd5d",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_d52039ab",
+      "distance": 71.89228053136164,
+      "distance_squared": 5168.499999999999,
+      "solid_angle": 0.11135070874744221,
+      "opening_fraction": 0.00886100785697069,
+      "weight": 1.71442543425959e-06
+    },
+    {
+      "source": "ifc_6059a4ae",
+      "target": "ifc_ce2d97b5",
+      "connection_type": "door",
+      "closable": true,
+      "opening_id": "ifc_4ce2a509",
+      "distance": 227.16733920174352,
+      "distance_squared": 51605.0,
+      "solid_angle": 0.058328762161220245,
+      "opening_fraction": 0.004641655411194853,
+      "weight": 8.994584654965319e-08
+    },
+    {
+      "source": "ifc_6059a4ae",
+      "target": "ifc_ce2d97b5",
+      "connection_type": "door",
+      "closable": true,
+      "opening_id": "ifc_a54f5084",
+      "distance": 227.16733920174352,
+      "distance_squared": 51605.0,
+      "solid_angle": 0.05050468917349977,
+      "opening_fraction": 0.004019035465641109,
+      "weight": 7.78807376347468e-08
+    },
+    {
+      "source": "ifc_4d34188a",
+      "target": "ifc_b161f4fd",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_aa14edc5",
+      "distance": 42.547032799009614,
+      "distance_squared": 1810.2499999999998,
+      "solid_angle": 0.16312460394817024,
+      "opening_fraction": 0.0129810435291295,
+      "weight": 7.170856803827925e-06
+    },
+    {
+      "source": "ifc_fff508cb",
+      "target": "ifc_4980afd1",
+      "connection_type": "opening",
+      "closable": false,
+      "opening_id": "ifc_7e330f5a",
+      "distance": 270.0374973961949,
+      "distance_squared": 72920.24999999997,
+      "solid_angle": 0.0016359280663952138,
+      "opening_fraction": 0.00013018301915478233,
+      "weight": 1.785279386107184e-09
+    },
+    {
+      "source": "ifc_7a1df1d4",
+      "target": "ifc_c1068f2d",
+      "connection_type": "door",
+      "closable": true,
+      "opening_id": "ifc_90f22e28",
+      "distance": 67.66461409037974,
+      "distance_squared": 4578.500000000017,
+      "solid_angle": 0.8482760180051164,
+      "opening_fraction": 0.06750366068591195,
+      "weight": 1.4743619239032804e-05
+    },
+    {
+      "source": "ifc_ce2e92d5",
+      "target": "ifc_9c44fc9c",
+      "connection_type": "door",
+      "closable": true,
+      "opening_id": "ifc_9419ddc8",
+      "distance": 36.704904304465806,
+      "distance_squared": 1347.2499999999925,
+      "solid_angle": 0.4603228479364831,
+      "opening_fraction": 0.03663132833361508,
+      "weight": 2.7189703717658402e-05
+    }
+  ],
+  "analysis": {
+    "components_doors_open": [
+      [
+        "ifc_b8b70717"
+      ],
+      [
+        "ifc_d8a40a6a"
+      ],
+      [
+        "ifc_3ec9c1b7"
+      ],
+      [
+        "ifc_2fdcbd5d",
+        "ifc_4d34188a",
+        "ifc_b161f4fd",
+        "ifc_ebbf572e"
+      ],
+      [
+        "ifc_9c44fc9c",
+        "ifc_ce2e92d5"
+      ],
+      [
+        "ifc_b50899b8"
+      ],
+      [
+        "ifc_b1b283fa"
+      ],
+      [
+        "ifc_e0032dff"
+      ],
+      [
+        "ifc_10a76309"
+      ],
+      [
+        "ifc_7a1df1d4",
+        "ifc_c1068f2d"
+      ],
+      [
+        "ifc_7e882394"
+      ],
+      [
+        "ifc_0dcbb0a5"
+      ],
+      [
+        "ifc_ef107a43"
+      ],
+      [
+        "ifc_e1a680e8"
+      ],
+      [
+        "ifc_4980afd1",
+        "ifc_b1ef5151",
+        "ifc_ba57bf84",
+        "ifc_fff508cb"
+      ],
+      [
+        "ifc_b3a05bfe"
+      ],
+      [
+        "ifc_6059a4ae",
+        "ifc_ce2d97b5"
+      ],
+      [
+        "ifc_fb5a2aec"
+      ]
+    ],
+    "components_doors_closed": [
+      [
+        "ifc_b8b70717"
+      ],
+      [
+        "ifc_d8a40a6a"
+      ],
+      [
+        "ifc_3ec9c1b7"
+      ],
+      [
+        "ifc_2fdcbd5d",
+        "ifc_4d34188a",
+        "ifc_b161f4fd",
+        "ifc_ebbf572e"
+      ],
+      [
+        "ifc_9c44fc9c"
+      ],
+      [
+        "ifc_b50899b8"
+      ],
+      [
+        "ifc_ce2e92d5"
+      ],
+      [
+        "ifc_b1b283fa"
+      ],
+      [
+        "ifc_e0032dff"
+      ],
+      [
+        "ifc_10a76309"
+      ],
+      [
+        "ifc_7a1df1d4"
+      ],
+      [
+        "ifc_7e882394"
+      ],
+      [
+        "ifc_0dcbb0a5"
+      ],
+      [
+        "ifc_c1068f2d"
+      ],
+      [
+        "ifc_ef107a43"
+      ],
+      [
+        "ifc_e1a680e8"
+      ],
+      [
+        "ifc_4980afd1",
+        "ifc_b1ef5151",
+        "ifc_ba57bf84",
+        "ifc_fff508cb"
+      ],
+      [
+        "ifc_b3a05bfe"
+      ],
+      [
+        "ifc_6059a4ae",
+        "ifc_ce2d97b5"
+      ],
+      [
+        "ifc_fb5a2aec"
+      ]
+    ]
+  },
+  "matrix": {
+    "file": "matrixclose.parquet",
+    "description": "Symmetric weighted adjacency matrix of closable door connections.",
+    "weight_formula": "opening_fraction / distance^2",
+    "opening_fraction": "solid_angle / (4*pi)",
+    "nonzero_edges": 4
+  }
+}
